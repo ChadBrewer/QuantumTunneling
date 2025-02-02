@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.Quantum.Sdk/0.29.2942">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>QuantumTunneling</RootNamespace>
+  </PropertyGroup>
+
+</Project>
